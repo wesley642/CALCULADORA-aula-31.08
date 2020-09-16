@@ -1,0 +1,10 @@
+C:\Users\wesle\source\repos\CALCULADORA aula 31.08\CALCULADORA aula 31.08\bin\Debug\CALCULADORA aula 31.08.exe.config
+C:\Users\wesle\source\repos\CALCULADORA aula 31.08\CALCULADORA aula 31.08\bin\Debug\CALCULADORA aula 31.08.exe
+C:\Users\wesle\source\repos\CALCULADORA aula 31.08\CALCULADORA aula 31.08\bin\Debug\CALCULADORA aula 31.08.pdb
+C:\Users\wesle\source\repos\CALCULADORA aula 31.08\CALCULADORA aula 31.08\obj\Debug\CALCULADORA aula 31.08.csprojAssemblyReference.cache
+C:\Users\wesle\source\repos\CALCULADORA aula 31.08\CALCULADORA aula 31.08\obj\Debug\CALCULADORA_aula_31._08.Form1.resources
+C:\Users\wesle\source\repos\CALCULADORA aula 31.08\CALCULADORA aula 31.08\obj\Debug\CALCULADORA_aula_31._08.Properties.Resources.resources
+C:\Users\wesle\source\repos\CALCULADORA aula 31.08\CALCULADORA aula 31.08\obj\Debug\CALCULADORA aula 31.08.csproj.GenerateResource.cache
+C:\Users\wesle\source\repos\CALCULADORA aula 31.08\CALCULADORA aula 31.08\obj\Debug\CALCULADORA aula 31.08.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\CALCULADORA aula 31.08\CALCULADORA aula 31.08\obj\Debug\CALCULADORA aula 31.08.exe
+C:\Users\wesle\source\repos\CALCULADORA aula 31.08\CALCULADORA aula 31.08\obj\Debug\CALCULADORA aula 31.08.pdb
